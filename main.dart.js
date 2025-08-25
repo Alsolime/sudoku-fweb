@@ -79813,7 +79813,7 @@ var $async$xm=A.W(function(a,b){if(a===1)return A.S(b,r)
 while(true)switch(s){case 0:p=A
 o=B.ep
 s=2
-return A.a2($.Z5().afQ("asset/app-infos.json"),$async$xm)
+return A.a2($.Z5().afQ("app-infos.json"),$async$xm)
 case 2:q.aM(new p.afY(q,o.hC(b)))
 return A.T(null,r)}})
 return A.U($async$xm,r)},
