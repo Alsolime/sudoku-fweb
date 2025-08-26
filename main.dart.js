@@ -79793,7 +79793,7 @@ A.a9o.prototype={
 XQ(a){$.apo().m(0,this,a)}}
 A.NM.prototype={
 V(a){var s=null,r=A.rr(s,A.atC(B.aa,s,s,B.dP),"Roboto",!0)
-return new A.wN(A.ao(["/",new A.adQ(),"/sudoku",new A.adR(),"/about",new A.adS()],t.N,t.Ab),"/","R\xe9solveur de Sudoku 2",r,B.Tz,B.NJ,!1,s)}}
+return new A.wN(A.ao(["/",new A.adQ(),"/sudoku",new A.adR(),"/about",new A.adS()],t.N,t.Ab),"/","R\xe9solveur de Sudoku",r,B.Tz,B.NJ,!1,s)}}
 A.adQ.prototype={
 $1(a){return B.Kh},
 $S:479}
