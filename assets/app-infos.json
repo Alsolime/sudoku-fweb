@@ -1,11 +1,11 @@
 {
   "name": "AMSudoku Solver",
   "version": "0.8.0",
-  "release": "2025.238.81",
+  "release": "2025.239.102",
   "description": "Une application pour saisir, valider et résoudre des grilles de Sudoku.",
   "project-url": "https://github.com/Alsolime/SudokuFSolver",
   "application-url": "https://github.com/Alsolime/sudoku-fweb",
   "author": "alsolime",
-  "buildDate": "2025-08-26 10:20:20 UTC",
+  "buildDate": "2025-08-27 16:43:50 UTC",
   "buildBranch": "release"
 }
